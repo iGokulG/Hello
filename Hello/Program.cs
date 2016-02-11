@@ -12,6 +12,7 @@ namespace Hello
         {
             Console.WriteLine("Sri Krishnarpanam !!!");
             Console.WriteLine("Project Created to test CheckIn CheckOut in GIT Source control repository");
+            Console.WriteLine("Project added to Git");
             Console.ReadLine();
         }
     }
